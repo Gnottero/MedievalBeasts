@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "BDB",
+    "iii"
+  ],
+  "key": {
+    "D": {
+      "item": "vitaincitta:blackdiamond"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:mob_box",
+    "count": 1
+  }
+}

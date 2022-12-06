@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "pixie_egg",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "block_entity",
+              "ops": [
+                {
+                  "source": "EntityType",
+                  "target": "EntityType",
+                  "op": "replace"
+                },
+                {
+                  "source": "WalkedSteps",
+                  "target": "WalkedSteps",
+                  "op": "replace"
+                },
+                {
+                  "source": "Rank",
+                  "target": "Rank",
+                  "op": "replace"
+                },
+                {
+                  "source": "GrowthStage",
+                  "target": "GrowthStage",
+                  "op": "replace"
+                },
+                {
+                  "source": "Catalyst",
+                  "target": "Catalyst",
+                  "op": "replace"
+                }
+              ]
+            }
+          ],
+          "name": "medieval_beasts:pixie_egg"
+        }
+      ]
+    }
+  ]
+}

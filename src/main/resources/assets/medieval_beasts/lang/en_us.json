@@ -1,0 +1,26 @@
+{
+  "block.medieval_beasts.pixie_egg": "Celestial Pixie Egg",
+  "block.medieval_beasts.egg_breaking_error": "A Netherite Pickaxe or better is required to break this egg!",
+  "item.medieval_beasts.info.rank_info": "Rank: %s",
+  "item.medieval_beasts.info.step_info": "Walked Distance: %s/%s",
+  "item.medieval_beasts.info.catalyst_info": "Catalyst: %s",
+  "item.medieval_beasts.info.name_info": "Entity Name: %s",
+  "entity.medieval_beasts.pixie": "Celestial Pixie",
+  "item.medieval_beasts.info.last_step_message": "[%s]> The egg is finally ready to hatch! Grab your catalyst and hatch it!",
+
+  "block.medieval_beasts.upgrade_altar": "Upgrade Altar",
+  "screen.medieval_beasts.upgrade_altar": "Upgrade Altar",
+
+  "item.medieval_beasts.mob_box": "Mob Box",
+  "item.medieval_beasts.upgrade_crystal": "Sacred Upgrade Crystal",
+  "item.medieval_beasts.arcane_beasts_lexicon": "Arcane Beasts Lexicon",
+  "item.medieval_beasts.celestial_berry": "Celestial Berry",
+
+  "block.medieval_beasts.celestial_berry_bush": "Celestial Berry Bush",
+  "item.medieval_beasts.original_berry": "Sacred Original Berry",
+
+  "itemGroup.medievalBeastsTab": "Medieval Beasts",
+
+  "medieval_beasts.lexicon_name": "Arcane Beasts Lexicon",
+  "medieval_beasts.landing": "Un antico manuale, scritto da un leggendario mago e andato perduto secoli fa. Si dice che in questo libro sia contenuta tutta la conoscenza delle antiche bestie magiche. Sfoglia le sue pagine e riporta alla luce l'antico sapere!"
+}

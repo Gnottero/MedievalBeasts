@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "EBE",
+    "iDi"
+  ],
+  "key": {
+    "#": {
+      "tag": "medieval_beasts:special_planks"
+    },
+    "D": {
+      "item": "vitaincitta:blackdiamond"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:emerald_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:upgrade_altar",
+    "count": 1
+  }
+}

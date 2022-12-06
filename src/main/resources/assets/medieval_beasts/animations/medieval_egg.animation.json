@@ -1,0 +1,20 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.medieval_egg.hatch": {
+			"loop": true,
+			"animation_length": 3.6,
+			"bones": {
+				"root": {
+					"rotation": {
+						"vector": ["math.sin(query.anim_time * 200) * 4", 0, "math.cos(query.anim_time * 200) * 4"]
+					}
+				}
+			}
+		},
+		"animation.medieval_egg.idle": {
+			"loop": true
+		}
+	},
+	"geckolib_format_version": 2
+}

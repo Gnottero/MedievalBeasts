@@ -1,0 +1,16 @@
+{
+  "name": "Poteri di Grado F",
+  "category": "medieval_beasts:celestial_pixie",
+  "icon": "minecraft:enchanted_book",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Come avevamo accennato, le Pixie Celestiali possiedono dei grandi poteri. Tuttavia, le Pixie appena nate hanno bisogno di tempo per imparare ad usare le forze della natura. Man mano che il loro Rank aumenta, anche i loro poteri si intensificano. Il primo Rank è indicato con la lettera F."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Per attivare il suo primo potere, la Pixie di Rank F deve essere nutrita con delle Bacche Celestiali. $(br)Il potere del Rank F, nonostante sia il meno potente, sprigiona comunque una grandissima energia. Infatti, tutti i mob nel raggio di 15 blocchi inizieranno a levitare e, dopo 8 secondi, cadranno nuovamente a terra. Il cooldown di questo potere è di 70 secondi."
+    }
+  ]
+}
