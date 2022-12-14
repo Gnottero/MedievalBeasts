@@ -19,6 +19,12 @@
   "block.medieval_beasts.celestial_berry_bush": "Celestial Berry Bush",
   "item.medieval_beasts.original_berry": "Sacred Original Berry",
 
+  "item.medieval_beasts.jam_jar": "Jam Jar",
+  "item.medieval_beasts.celestial_berry_jam": "Celestial Berry Jam",
+  "item.medieval_beasts.celestial_berry_tart": "Celestial Berry Tart",
+  "item.medieval_beasts.celestial_berry_cookie": "Celestial Berry Cookie",
+  "item.medieval_beasts.celestial_berry_soup": "Celestial Berry Soup",
+
   "itemGroup.medievalBeastsTab": "Medieval Beasts",
 
   "medieval_beasts.lexicon_name": "Arcane Beasts Lexicon",

@@ -1,0 +1,16 @@
+{
+  "name": "Celestial Berry Soup",
+  "category": "medieval_beasts:celestial_foods",
+  "icon": "medieval_beasts:celestial_berry_soup",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "In questa sezione ti presentiamo al ricetta della Zuppa alle Bacche Celestiali. Si tratta di un'antica ricetta, creata da uno dei pasticceri più bravi della storia, Chef Firebelly. Si dice anche che diversi eroi riuscirono a curare le loro ferite grazie a questa prelibatezza."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "medieval_beasts:celestial_berry_soup"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "SBS",
+    "GGG"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "S": {
+      "item": "minecraft:honey_bottle"
+    },
+    "G": {
+      "item": "medieval_beasts:celestial_berry"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:celestial_berry_soup",
+    "count": 1
+  }
+}

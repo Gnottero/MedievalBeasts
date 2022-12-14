@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "CCC",
+    "GGG"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cookie"
+    },
+    "G": {
+      "item": "medieval_beasts:celestial_berry"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:celestial_berry_cookie",
+    "count": 1
+  }
+}

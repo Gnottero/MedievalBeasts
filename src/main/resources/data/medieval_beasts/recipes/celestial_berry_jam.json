@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "GJG",
+    "GGG"
+  ],
+  "key": {
+    "J": {
+      "item": "medieval_beasts:jam_jar"
+    },
+    "G": {
+      "item": "medieval_beasts:celestial_berry"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:celestial_berry_jam",
+    "count": 1
+  }
+}

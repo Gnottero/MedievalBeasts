@@ -34,7 +34,7 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> UPGRADE_ALTAR = registerBlock(
             "upgrade_altar",
-            () -> new UpgradeAltarBlock(AbstractBlock.Properties.create(Material.IRON).notSolid())
+            () -> new UpgradeAltarBlock(AbstractBlock.Properties.from(Blocks.IRON_BLOCK).notSolid())
     );
 
     public static final RegistryObject<Block> CELESTIAL_BERRY_BUSH = registerBlockWithoutBlockItem(

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "G G",
+    "GGG"
+  ],
+  "key": {
+    "C": {
+      "tag": "medieval_beasts:wool_carpets"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "medieval_beasts:jam_jar",
+    "count": 1
+  }
+}
